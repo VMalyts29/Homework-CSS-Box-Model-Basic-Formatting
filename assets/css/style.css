@@ -20,6 +20,7 @@ header {
     background-image: url("./../img/beachshowcase.jpg");
     background-repeat: no-repeat;
     background-position: center;
+    background-color: #b8aea5;
 }
 
 h1 {
@@ -27,6 +28,7 @@ h1 {
     margin-top: 220px;
     font-size: 50px;
     color: #926239;
+    background-color:
     }
 
 a {
