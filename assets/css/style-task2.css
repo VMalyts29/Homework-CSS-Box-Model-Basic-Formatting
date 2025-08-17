@@ -48,20 +48,21 @@ h1 {
 }
 
 .block_text {
-    font-size: 0px;
     padding: 0px 0px 15px;
 
 }
 
 .block_text_1 {
-    column-count: 2;
-    display: inline-block;
-    width: calc(100%/2);
+    max-width: 960px;
+    margin: 0 auto;
     padding: 20px;
+    background-color: #eaeaea;
+    column-count: 2;
+    column-width: 40px;
+    display: inline-block;
     text-align: center;
     font-size: 17px;
     color: inherit;
-    background-color: #eaeaea;
 }
 
 .box_card {
