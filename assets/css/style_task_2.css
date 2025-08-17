@@ -28,7 +28,6 @@ header {
 header p {
     max-width: 830px;
     margin: 0 auto;
-    text-align: center;
     line-height: 1.5;
     margin-bottom: 15px;
 }
@@ -69,7 +68,6 @@ h1 {
     column-width: 320px;
     column-gap: 24px;
     display: block;
-    text-align: center;
     font-size: 17px;
     color: inherit;
 }
@@ -82,7 +80,6 @@ h1 {
     width: 100%;
     padding: 24px;         
     box-sizing: border-box;
-    text-align: center;
 }
 
 .box_card img {
@@ -124,7 +121,6 @@ h2 {
     width: calc((100% - 20px) / 3); 
     margin: 0 10px 10px 0;
     font-size: 18px;       
-    text-align: center;
 
 }
 
@@ -134,7 +130,7 @@ h2 {
     width: calc((100% - 20px) / 3); 
     margin: 0 10px 10px 0;
     font-size: 18px;       
-    text-align: center;
+
 
 }
 
@@ -144,7 +140,7 @@ h2 {
     width: calc((100% - 20px) / 3); 
     margin: 0 10px 10px 0;
     font-size: 18px;       
-    text-align: center;
+
 }
 
 .web:last-child, .mobile:last-child, .tech:last-child { margin-right: 0; }
@@ -168,7 +164,6 @@ h2 {
     display: inline-block;
     vertical-align: top;
     padding: 60px 16px 60px 16px;
-    text-align: center;
     color:#fff;
     font-size: 18px;
     width: calc(100%/2);
@@ -181,7 +176,6 @@ h2 {
     vertical-align: top;
     padding: 60px 16px 60px 16px;
     color: #fff;
-    text-align: center;
     font-size: 18px;
     width: calc(100%/2);
     background-color: #333;
@@ -198,7 +192,6 @@ h2 {
     vertical-align: top;
     padding: 40px 0px 40px 0px;
     color: #fff;
-    text-align: center;
     font-size: 16px;
     width: 50%;
     background-color: #000000;
